@@ -37,3 +37,27 @@ footer {
 }
 
 /* contacto */
+#contacto {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 0 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+input,
+textarea {
+  padding: 8px;
+}
+
+button {
+  background-color: #222;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
