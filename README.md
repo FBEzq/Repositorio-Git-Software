@@ -4,8 +4,8 @@ Página web de una tienda de ropa hecha en grupo para practicar Git y GitHub.
 
 ## Integrantes
 
-- Nombre 1
-- Nombre 2
+- Brandán, Fernando
+- Barraza, David
 
 ## Archivos
 
